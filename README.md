@@ -5,6 +5,7 @@ Master the computer vision skills behind advances in robotics and automation. Th
 This course helped me to gain practical skills by programming computer vision applications, extract information from any kind of image and spatial data, and solve real-world challenges.
 
 This curriculum is built in collaboration with Affectiva and NVIDIA.
+
 [Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
 
 # Projects
@@ -17,4 +18,7 @@ Implementing a robust method for tracking an object over time with SLAM
 Master the computer vision skills behind advances in robotics and automation. Able to write programs to analyze images, implement feature extr
 
 # Certificate
-![](certificates/certificate.pdf)
+[![](images/ComputerVisionCertificate.PNG)](certifactes/ComputerVisionCertificate.pdf)
+
+Click [here](https://confirm.udacity.com/XDHAD4VH) to view credential
+
