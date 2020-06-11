@@ -18,7 +18,7 @@ Implementing a robust method for tracking an object over time with SLAM
 Master the computer vision skills behind advances in robotics and automation. Able to write programs to analyze images, implement feature extr
 
 # Certificate
-[![](images/ComputerVisionCertificate.PNG)](certifictes/ComputerVisionCertificate.pdf)
+![](images/ComputerVisionCertificate.PNG)
 
 Click [here](https://confirm.udacity.com/XDHAD4VH) to view credentials
 
