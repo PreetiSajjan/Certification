@@ -21,4 +21,3 @@ Master the computer vision skills behind advances in robotics and automation. Ab
 ![](images/ComputerVisionCertificate.PNG)
 
 Click [here](https://confirm.udacity.com/XDHAD4VH) to view credentials
-
